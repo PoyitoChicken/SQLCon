@@ -1,0 +1,10 @@
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.exe.config
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.exe
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.pdb
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csproj.AssemblyReference.cache
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.Form1.resources
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.Properties.Resources.resources
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csproj.GenerateResource.cache
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.exe
+D:\Users\Desktop\SQL\ConnectSQL3\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.pdb

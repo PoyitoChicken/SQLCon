@@ -1,0 +1,9 @@
+C:\Users\osky_\source\repos\Actualizarsi\Actualizarsi\obj\Debug\Actualizarsi.Form1.resources
+C:\Users\osky_\source\repos\Actualizarsi\Actualizarsi\obj\Debug\Actualizarsi.Properties.Resources.resources
+C:\Users\osky_\source\repos\Actualizarsi\Actualizarsi\obj\Debug\Actualizarsi.csproj.GenerateResource.cache
+C:\Users\osky_\source\repos\Actualizarsi\Actualizarsi\obj\Debug\Actualizarsi.csproj.CoreCompileInputs.cache
+C:\Users\osky_\source\repos\Actualizarsi\Actualizarsi\bin\Debug\Actualizarsi.exe.config
+C:\Users\osky_\source\repos\Actualizarsi\Actualizarsi\bin\Debug\Actualizarsi.exe
+C:\Users\osky_\source\repos\Actualizarsi\Actualizarsi\bin\Debug\Actualizarsi.pdb
+C:\Users\osky_\source\repos\Actualizarsi\Actualizarsi\obj\Debug\Actualizarsi.exe
+C:\Users\osky_\source\repos\Actualizarsi\Actualizarsi\obj\Debug\Actualizarsi.pdb
